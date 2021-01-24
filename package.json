@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/kawarimidoll/yarn-template",
   "author": "kawarimidoll <kawarimidoll+git@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^7.2.0",
+    "prettier": "^2.2.1"
+  }
 }
