@@ -1,0 +1,8 @@
+{
+  "name": "yarn-template",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kawarimidoll/yarn-template",
+  "author": "kawarimidoll <kawarimidoll+git@gmail.com>",
+  "license": "MIT"
+}
