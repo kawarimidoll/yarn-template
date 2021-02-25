@@ -9,15 +9,11 @@
     "*.{js,jsx,vue}": "eslint",
     "*.{json,md}": "prettier --write"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "scripts": {
     "ci": "yarn install --frozen-lockfile",
     "lint": "eslint .",
-    "preci": "rimraf node_modules"
+    "preci": "rimraf node_modules",
+    "postinstall": "husky install"
   },
   "devDependencies": {
     "eslint": "^7.20.0",
