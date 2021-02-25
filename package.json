@@ -7,7 +7,7 @@
   "license": "MIT",
   "lint-staged": {
     "*.{js,jsx,vue}": "eslint",
-    "*.{json,md}": "prettier --write"
+    "*.{js,jsx,vue,json,md,html,css,yml}": "prettier --write"
   },
   "scripts": {
     "ci": "yarn install --frozen-lockfile",
