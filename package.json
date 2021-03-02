@@ -13,7 +13,7 @@
     "ci": "yarn install --frozen-lockfile",
     "lint": "eslint .",
     "preci": "rimraf node_modules",
-    "postinstall": "husky install"
+    "prepare": "husky install"
   },
   "devDependencies": {
     "eslint": "^7.20.0",
