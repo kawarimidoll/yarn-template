@@ -6,7 +6,7 @@
   "author": "kawarimidoll <kawarimidoll+git@gmail.com>",
   "main": "index.js",
   "scripts": {
-    "preci": "rimraf node_modules",
+    "preci": "rm -rf node_modules",
     "ci": "yarn install --frozen-lockfile",
     "lint": "eslint .",
     "prepare": "husky install"
