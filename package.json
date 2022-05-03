@@ -23,6 +23,6 @@
     "lint-staged": "^12.4.1",
     "prettier": "^2.6.2",
     "rimraf": "^3.0.2",
-    "sort-package-json": "^1.55.0"
+    "sort-package-json": "^1.57.0"
   }
 }
