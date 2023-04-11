@@ -20,7 +20,7 @@
     "eslint": "^8.35.0",
     "eslint-config-prettier": "^8.7.0",
     "husky": "^8.0.3",
-    "lint-staged": "^13.1.2",
+    "lint-staged": "^13.2.1",
     "prettier": "^2.8.7",
     "rimraf": "^4.4.0",
     "sort-package-json": "^2.4.1"
